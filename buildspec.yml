@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     AWS_DEFAULT_REGION: ap-northeast-2
-    REPOSITORY_URI: 354493396671.dkr.ecr.ap-northeast-2.amazonaws.com/ecs-app-repo
+    REPOSITORY_URI: 354493396671.dkr.ecr.ap-northeast-2.amazonaws.com/midas-repository2
 
 phases:
   pre_build:
